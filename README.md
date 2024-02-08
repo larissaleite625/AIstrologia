@@ -1,2 +1,0 @@
-# AIstrologia
-Twitter para astrologia
